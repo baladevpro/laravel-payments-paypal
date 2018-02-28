@@ -1,5 +1,7 @@
 <?php
 
+namespace BaladevPro\PayPal;
+
 class Api
 {
     const BILLINGPERIOD_DAY         = 'Day';
