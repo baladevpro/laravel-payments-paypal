@@ -2,7 +2,7 @@
   "name": "baladev-pro/laravel-payments-paypal",
   "type": "library",
   "description": "Laravel plugin For Processing Payments Through Paypal Express Checkout. Can Be Used Independently With Other Applications.",
-  "version": "1.0.1",
+  "version": "v1.0.1",
   "keywords": ["http", "rest", "web service", "paypal", "laravel paypal"],
   "license": "Apache-2.0",
   "authors": [
